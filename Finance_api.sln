@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finance_api", "Finance_api\Finance_api.csproj", "{D40D567B-BDDC-4407-AFCC-21A10A4F9225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40D567B-BDDC-4407-AFCC-21A10A4F9225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40D567B-BDDC-4407-AFCC-21A10A4F9225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40D567B-BDDC-4407-AFCC-21A10A4F9225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40D567B-BDDC-4407-AFCC-21A10A4F9225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
